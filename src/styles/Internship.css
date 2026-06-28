@@ -1,0 +1,35 @@
+.internship {
+    padding: 80px 10%;
+    background: #111827;
+    color: #fff
+}
+
+.internship h2 {
+    text-align: center;
+    font-size: 40px;
+    color: #38bdf8;
+    margin-bottom: 40px
+}
+
+.card {
+    background: #1e293b;
+    padding: 25px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, .3)
+}
+
+.card h3 {
+    color: #38bdf8;
+    margin-bottom: 10px
+}
+
+.card h4 {
+    color: #fff;
+    margin-bottom: 10px
+}
+
+.card ul {
+    padding-left: 20px;
+    line-height: 1.8
+}
