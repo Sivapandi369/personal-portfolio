@@ -55,8 +55,9 @@
 .btn:hover {
     transform: translateY(-3px)
 }
-.image{
-    height: 50vb;
+
+.image {
+    height: 30vb;
     border-radius: 30px;
     /* display: flex; */
     /* gap: 100px; */
